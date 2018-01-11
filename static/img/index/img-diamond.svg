@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="110px" height="30px" viewBox="0 0 110 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>黄金会员-颜色待定</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="黄金会员-颜色待定">
+            <g id="铂金会员" transform="translate(5.000000, 4.000000)">
+                <rect id="Rectangle-10" fill="#1C1D1F" opacity="0.800000012" x="0" y="0" width="100" height="22" rx="11"></rect>
+                <text id="水晶会员" font-family="PingFangSC-Medium, PingFang SC" font-size="14" font-weight="400" fill="#F1CE95">
+                    <tspan x="17" y="16">水晶会员</tspan>
+                </text>
+                <g id="箭头" transform="translate(80.869396, 10.849396) rotate(-135.000000) translate(-80.869396, -10.849396) translate(76.869396, 7.349396)" fill="#F1CE95">
+                    <rect id="Rectangle-6" x="0.800935903" y="-0.0186993499" width="1.05263162" height="6.41666667"></rect>
+                    <rect id="Rectangle-6" transform="translate(4.075281, 5.869159) rotate(-270.000000) translate(-4.075281, -5.869159) " x="3.54896525" y="2.66082568" width="1.05263162" height="6.41666667"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

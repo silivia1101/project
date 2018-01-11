@@ -1,0 +1,203 @@
+// 总收入
+.container-total-box{
+  .aui-list {
+    .aui-list-item {
+      //line-height: 3rem;
+    }
+    .aui-list-item-title {
+      padding-left: 1.5rem;
+      line-height: 3rem;
+      img {
+        width: 1rem;
+      }
+    }
+    .total-first {
+      background: url("../img/total/total-img1.svg") no-repeat left center;
+    }
+    .total-second {
+      background: url("../img/total/total-img2.svg") no-repeat left center;
+    }
+    .total-third {
+      background: url("../img/total/total-img3.svg") no-repeat left center;
+    }
+    .total-fouth {
+      background: url("../img/total/total-img4.svg") no-repeat left center;
+    }
+    .aui-list-item-right, .aui-list-item-title-row em {
+      color: #999;
+    }
+    .aui-list-item-right {
+      span {
+        margin-right: 0.5rem;
+      }
+      img{
+        //margin-left: 0.5rem;
+      }
+    }
+  }
+  .cashIngBox{
+    width: 95%;
+    margin: 0 auto;
+    background: #fff;
+    text-align: center;
+    padding: 1.5rem 0 1rem;
+    border-radius: 0.3rem;
+    .moneys {
+      font-size: 1.2rem;
+      color: #f39e5f;
+    }
+    .moneyTip {
+      font-size: 0.6rem;
+    }
+    img {
+      width: 3.5rem;
+    }
+  }
+  .total-footer {
+    width: 95%;
+    margin: 0.5rem auto;
+    color: #999;
+    font-size: 0.6rem;
+    padding: 0 0.5rem;
+  }
+  .p-title {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto 0.9rem;
+    p {
+      height: 1px;
+      /* border: 1px solid #f00; */
+      background: #fe790c;
+      width: 4rem;
+    }
+    span {
+      color: #fe790c;
+      font-weight: bold;
+      line-height: 1rem;
+      margin: 0 0.8rem;
+    }
+    hr {
+      width: 4rem;
+      height: 1px;
+      background: #fe790c;
+    }
+  }
+  .box-more-container {
+      width: 100%;
+      li {
+        width: 95%;
+        margin: 0 auto;
+      }
+      img {
+        width: 100%;
+      }
+  }
+}
+// 按钮
+.cashIng{
+  width: 95%;
+  margin: 1rem auto;
+  text-align: center;
+ img {
+    width: 50%;
+    margin: 3rem auto 0;
+  }
+  .cash-complete {
+    color: #333;
+    font-size: 0.9rem;
+    line-height: 2rem;
+  }
+  .cash-tip{
+    color: #999;
+    margin-bottom: 1.5rem;
+  }
+  .buttons {
+    width: 100%;
+    height: 2.3rem;
+    //margin: 0 auto;
+    border: none;
+    //color: #fff;
+    //margin-bottom: 0.2rem;
+    font-size: 1rem;
+    //box-shadow: 0px 5px 5px #f07a4e;
+    box-shadow: 0 3px 9px #FFAD90;
+    border-radius: 2rem;
+    background: -webkit-linear-gradient(left, #f07a4e , #f96278); /* Safari 5.1 - 6.0 */
+    background: -o-linear-gradient(right, #f07a4e, #f96278); /* Opera 11.1 - 12.0 */
+    background: -moz-linear-gradient(right, #f07a4e, #f96278); /* Firefox 3.6 - 15 */
+    background: linear-gradient(to right, #f07a4e , #f96278); /* 标准的语法 */
+    p {
+      color: #fff;
+      font-size: 1rem;
+    }
+  }
+  .butn {
+    width: 94%;
+  }
+  .blur{
+    /**  格式，filer: blur(模糊半径)
+     *  模糊半径，取值范围0~Npx，0为无效果
+     */
+    margin-top: 0.5rem;
+    -webkit-filter: blur(4px);
+    -moz-filter: blur(4px);
+    -o-filter: blur(4px);
+    -ms-filter: blur(4px);
+    filter: blur(4px);
+    opacity: 0.1;
+    position: absolute;
+    width: 80%;
+    top: 7%;
+  }
+}
+
+// 银行卡提现
+.containers{
+  .containersBox{
+    background: #fff;
+    .cash-banner-box{
+      width: 100%;
+      //border-bottom: 1px solid #ccc;
+      .cash-banner {
+        width: 95%;
+        margin: 0 auto;
+        padding: 0.5rem 0;
+        img{
+          width: 100%;
+          //margin: 0.5rem auto;
+        }
+      }
+    }
+    .aui-list .aui-list-item {
+      padding-left: 0;
+      margin-left: 0.75rem;
+      .aui-list-item-label {
+        color: #333;
+      }
+      .aui-list-item-input {
+        input[type="text"],select,input[type="number"] {
+          padding-left: 0.5rem;
+          min-height: 2.7rem;
+          line-height: 2.7rem;
+        }
+
+        //input[type="number"]{
+        //  padding-left: 0.5rem;
+        //}
+        select{
+          background: url("../img/cash/cash-select.svg") no-repeat right center;
+          //background: url("../img/total/total-arrow-bottom.svg") no-repeat right center;
+          background-size: 8% 20%;
+          color: #999;
+        }
+      }
+      input::-webkit-input-placeholder {
+        color: #999;
+      }
+    }
+  }
+
+
+}

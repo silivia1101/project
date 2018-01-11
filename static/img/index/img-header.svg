@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="335px" height="10px" viewBox="0 0 335 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard-2" fill="#FFFFFF">
+            <path d="M10,5 L325,5 L325,5 C327.761424,5 330,7.23857625 330,10 L330,10 L5,10 L5,10 L5,10 C5,7.23857625 7.23857625,5 10,5 Z" id="Rectangle-12" opacity="0.5"></path>
+            <path d="M16,0 L319,0 L319,1.37667655e-13 C322.313708,1.37058937e-13 325,2.6862915 325,6 L325,10 L10,10 L10,6 L10,6 C10,2.6862915 12.6862915,-1.3033749e-13 16,-2.95763414e-13 Z" id="Rectangle-12" opacity="0.200000003"></path>
+        </g>
+    </g>
+</svg>

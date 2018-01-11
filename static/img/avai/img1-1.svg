@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="127px" height="80px" viewBox="0 0 127 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>邀请奖励-50 copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FD8F0A" offset="0%"></stop>
+            <stop stop-color="#FF730D" offset="100%"></stop>
+        </linearGradient>
+        <path d="M111,64 L3,64 C3,62.3431458 1.65685425,61 0,61 L0,59 C1.65685425,59 3,57.6568542 3,56 C3,54.3431458 1.65685425,53 0,53 L0,51 C1.65685425,51 3,49.6568542 3,48 C3,46.3431458 1.65685425,45 0,45 L0,43 C6.07513225,43 11,38.0751322 11,32 C11,25.9248678 6.07513225,21 -1.24344979e-14,21 L0,19 C1.65685425,19 3,17.6568542 3,16 C3,14.3431458 1.65685425,13 0,13 L0,11 C1.65685425,11 3,9.65685425 3,8 C3,6.34314575 1.65685425,5 0,5 L0,3 C1.65685425,3 3,1.65685425 3,0 L111,0 C111,1.65685425 112.343146,3 114,3 L114,5 C112.343146,5 111,6.34314575 111,8 C111,9.65685425 112.343146,11 114,11 L114,13 C112.343146,13 111,14.3431458 111,16 C111,17.6568542 112.343146,19 114,19 L114,21 C107.924868,21 103,25.9248678 103,32 C103,38.0751322 107.924868,43 114,43 L114,45 C112.343146,45 111,46.3431458 111,48 C111,49.6568542 112.343146,51 114,51 L114,53 C112.343146,53 111,54.3431458 111,56 C111,57.6568542 112.343146,59 114,59 L114,61 C112.343146,61 111,62.3431458 111,64 Z" id="path-2"></path>
+        <filter x="-3.2%" y="-3.8%" width="106.3%" height="111.2%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="1.2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.27904212   0 0 0 0 0  0 0 0 0.530712183 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="邀请奖励-50-copy">
+            <g id="Group-6" transform="translate(7.000000, 7.000000)">
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

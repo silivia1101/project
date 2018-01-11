@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>总收入切图</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="20" width="60" height="35" rx="3"></rect>
+        <rect id="path-2" x="12" y="0" width="42" height="30" rx="2"></rect>
+        <rect id="path-3" x="0" y="27" width="64" height="37" rx="3"></rect>
+        <path d="M54.5,42 L66,42 L66,42 C67.1045695,42 68,42.8954305 68,44 L68,51 L68,51 C68,52.1045695 67.1045695,53 66,53 L54.5,53 L54.5,53 C51.4624339,53 49,50.5375661 49,47.5 L49,47.5 L49,47.5 C49,44.4624339 51.4624339,42 54.5,42 Z" id="path-4"></path>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="总收入切图">
+            <g id="Group-9" transform="translate(5.000000, 5.000000)">
+                <g id="Rectangle-2">
+                    <use fill="#FCB145" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#F9A057" stroke-width="1" x="0.5" y="20.5" width="59" height="34" rx="3"></rect>
+                </g>
+                <rect id="Rectangle-27" fill="#FFEBAB" x="7" y="24" width="55" height="5" rx="2.5"></rect>
+                <rect id="Rectangle-28" fill="#FF6422" x="63" y="38" width="5" height="15" rx="2.5"></rect>
+                <g id="Path">
+                    <use fill="#0BCEFF" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#00A6FF" stroke-width="1" x="12.5" y="0.5" width="41" height="29" rx="2"></rect>
+                </g>
+                <g id="Rectangle-2">
+                    <use fill="#FCB244" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#F29446" stroke-width="1" x="0.5" y="27.5" width="63" height="36" rx="3"></rect>
+                </g>
+                <g id="Path">
+                    <use fill="#FF7033" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    <path stroke="#FF7033" stroke-width="1" d="M54.5,42.5 C51.7385763,42.5 49.5,44.7385763 49.5,47.5 C49.5,50.2614237 51.7385763,52.5 54.5,52.5 L66,52.5 C66.8284271,52.5 67.5,51.8284271 67.5,51 L67.5,44 C67.5,43.1715729 66.8284271,42.5 66,42.5 L54.5,42.5 Z"></path>
+                </g>
+                <circle id="Oval-12" fill="#FFFFFF" cx="55.5" cy="47.5" r="2.5"></circle>
+                <text id="¥" font-family="PingFangSC-Regular, PingFang SC" font-size="22" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="26" y="23">¥</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

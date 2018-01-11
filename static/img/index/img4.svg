@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44.1 (41455) - http://www.bohemiancoding.com/sketch -->
+    <title>我的收入</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="19.1521147%" y1="0%" x2="84.1262028%" y2="89.8667691%" id="linearGradient-1">
+            <stop stop-color="#FCBA20" offset="0%"></stop>
+            <stop stop-color="#F7A236" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="我的收入">
+            <g id="金额" transform="translate(2.000000, 3.000000)">
+                <path d="M0,7.14176967 L0,5 L0,5 C-2.02906125e-16,3.34314575 1.34314575,2 3,2 L3,2 L23,2 C24.6568542,2 26,3.34314575 26,5 L26,7.14176967 C24.2747728,7.64131781 23,9.40318064 23,11.5 C23,13.5968194 24.2747728,15.3586822 26,15.8582303 L26,18 C26,19.6568542 24.6568542,21 23,21 L3,21 C1.34314575,21 2.02906125e-16,19.6568542 0,18 L0,15.8582303 C1.72522721,15.3586822 3,13.5968194 3,11.5 C3,9.40318064 1.72522721,7.64131781 2.70339306e-14,7.14176967 Z" id="Combined-Shape" fill="url(#linearGradient-1)"></path>
+                <text id="¥" font-family="PingFangSC-Regular, PingFang SC" font-size="16" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="8" y="17">¥</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="8px" viewBox="0 0 15 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="收缩箭头" fill="#999999">
+            <g id="箭头" transform="translate(7.500000, 4.000000) rotate(-90.000000) translate(-7.500000, -4.000000) translate(3.500000, -3.500000)">
+                <rect id="Rectangle-11" transform="translate(4.055690, 4.351499) rotate(-45.000000) translate(-4.055690, -4.351499) " x="3.55569016" y="-0.648501313" width="1" height="10"></rect>
+                <rect id="Rectangle-12" transform="translate(4.008359, 10.755673) rotate(-45.000000) translate(-4.008359, -10.755673) " x="-0.991641235" y="10.2556732" width="10" height="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

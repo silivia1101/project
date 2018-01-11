@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="66px" height="66px" viewBox="0 0 66 66" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45.2 (43514) - http://www.bohemiancoding.com/sketch -->
+    <title>购课</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="-15.0614567" y="7.43609841" width="113" height="24.0048898"></rect>
+        <filter x="-4.4%" y="-16.7%" width="108.8%" height="141.7%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.95966199   0 0 0 0 0.709643954   0 0 0 0 0.495128637  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="购课">
+            <g id="Mask" transform="translate(41.438543, 19.438543) rotate(-315.000000) translate(-41.438543, -19.438543) ">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#FC941D" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <text transform="translate(43.870058, 22.870058) rotate(-315.000000) translate(-43.870058, -22.870058) " font-family="PingFangSC-Regular, PingFang SC" font-size="14" font-weight="normal" letter-spacing="-0.186666638" fill="#FFFFFF">
+                <tspan x="30.0567243" y="27.8700577">购课</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

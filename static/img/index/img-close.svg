@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.600000024">
+        <g id="关闭按钮">
+            <g transform="translate(1.000000, 1.000000)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="1.5" cx="22" cy="22" r="22"></circle>
+                <g id="Group-3" transform="translate(22.773736, 22.809450) rotate(-45.000000) translate(-22.773736, -22.809450) translate(9.773736, 9.809450)" fill="#FFFFFF">
+                    <rect id="Rectangle-7" x="12.0714286" y="0" width="1.85714286" height="25.0714286" rx="0.928571429"></rect>
+                    <rect id="Rectangle-7" transform="translate(13.000000, 12.535714) rotate(-270.000000) translate(-13.000000, -12.535714) " x="12.0714286" y="0" width="1.85714286" height="25.0714286" rx="0.928571429"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

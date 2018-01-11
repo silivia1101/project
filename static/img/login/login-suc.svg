@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="84px" height="84px" viewBox="0 0 84 84" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <linearGradient x1="50%" y1="2.44140625%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F79B5D" offset="0%"></stop>
+            <stop stop-color="#F7AF76" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-2" x="0" y="0" width="82" height="82" rx="41"></rect>
+        <filter x="-243.1%" y="-217.5%" width="586.1%" height="534.9%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="45.4547991" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-243.1%" y="-217.5%" width="586.1%" height="534.9%" filterUnits="objectBoundingBox" id="filter-5">
+            <feGaussianBlur stdDeviation="45.4547991" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+        <filter x="-243.1%" y="-217.5%" width="586.1%" height="534.9%" filterUnits="objectBoundingBox" id="filter-6">
+            <feGaussianBlur stdDeviation="45.4547991" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="优享-copy">
+            <g id="绑定成功图标" transform="translate(1.000000, 1.000000)">
+                <g id="底圆">
+                    <mask id="mask-3" fill="white">
+                        <use xlink:href="#path-2"></use>
+                    </mask>
+                    <use id="Mask" fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <ellipse id="Oval" fill="#FF6F6F" filter="url(#filter-4)" mask="url(#mask-3)" cx="-28.0526316" cy="8.61344538" rx="28.0526316" ry="31.3529412"></ellipse>
+                    <ellipse id="Oval-Copy" fill="#FFDC6F" filter="url(#filter-5)" mask="url(#mask-3)" cx="110.052632" cy="71.3193277" rx="28.0526316" ry="31.3529412"></ellipse>
+                    <ellipse id="Oval-Copy-2" fill-opacity="0.2" fill="#D0011B" filter="url(#filter-6)" mask="url(#mask-3)" cx="23.7368421" cy="-0.344537815" rx="28.0526316" ry="31.3529412"></ellipse>
+                </g>
+                <g id="对号" transform="translate(42.102291, 36.102291) rotate(-45.000000) translate(-42.102291, -36.102291) translate(20.602291, 22.102291)" fill="#FFFFFF">
+                    <rect id="Rectangle-4" x="0" y="0" width="5" height="28" rx="2.5"></rect>
+                    <rect id="Rectangle-4" transform="translate(21.500000, 25.500000) rotate(-270.000000) translate(-21.500000, -25.500000) " x="19" y="4" width="5" height="43" rx="2.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

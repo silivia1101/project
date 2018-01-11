@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="89px" height="68px" viewBox="0 0 89 68" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <rect id="path-1" x="5.68493151" y="9.10344828" width="71.630137" height="47.7931034" rx="4"></rect>
+        <rect id="path-2" x="5.68493151" y="7.96551724" width="71.630137" height="47.7931034" rx="4"></rect>
+    </defs>
+    <g id="切图" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="银行卡">
+            <g id="Group-10" transform="translate(3.000000, 1.000000)">
+                <g id="Rectangle-25" transform="translate(41.500000, 33.000000) rotate(-15.000000) translate(-41.500000, -33.000000) ">
+                    <use fill="#FCDC78" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    <rect stroke="#FECA29" stroke-width="0.6" x="5.98493151" y="9.40344828" width="71.030137" height="47.1931034" rx="4"></rect>
+                </g>
+                <g id="Rectangle-25">
+                    <use fill="#76DB91" fill-rule="evenodd" xlink:href="#path-2"></use>
+                    <rect stroke="#7ED321" stroke-width="0.6" x="5.98493151" y="8.26551724" width="71.030137" height="47.1931034" rx="4"></rect>
+                </g>
+                <rect id="Rectangle-29" fill="#EFEFEF" x="11.369863" y="35.2758621" width="25.0136986" height="4.55172414" rx="2.27586207"></rect>
+                <rect id="Rectangle-29" fill="#EFEFEF" opacity="0.5" x="11.369863" y="44.3793103" width="12.5068493" height="4.55172414" rx="2.27586207"></rect>
+                <rect id="Rectangle-26" fill="#FFFFFF" opacity="0.5" x="5.68493151" y="20.4827586" width="71.630137" height="5.68965517"></rect>
+                <path d="M68.7829275,45.0204527 L61.0499802,50.5178472 L61.0499802,50.5178472 C60.8249146,50.6778475 60.5127571,50.6251017 60.3527567,50.4000362 C60.2925971,50.3154122 60.260274,50.2141587 60.260274,50.11033 L60.260274,39.1155409 L60.260274,39.1155409 C60.260274,38.8393986 60.4841316,38.6155409 60.760274,38.6155409 C60.8641027,38.6155409 60.9653562,38.647864 61.0499802,38.7080237 L68.7829275,44.2054182 L68.7829275,44.2054182 C69.0079931,44.3654185 69.0607388,44.6775761 68.9007385,44.9026417 C68.8683334,44.9482245 68.8285103,44.9880476 68.7829275,45.0204527 Z" id="Triangle-4" fill="#FFFFFF"></path>
+                <rect id="Rectangle-30" fill="#FFFFFF" x="53.4383562" y="43.2413793" width="7.95890411" height="3.4137931" rx="1.70689655"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
