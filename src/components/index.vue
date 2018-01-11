@@ -256,7 +256,9 @@ export default {
     this.onloadUp()
     document.title = '个人中心'
     //console.log(http)
-   	console.log(leoHttp)
+   	leoHttp.request().then(() => {
+       console.log(1)
+     })
   },
   methods: {
 //      点击关闭滚动条
@@ -294,7 +296,7 @@ export default {
 //        alert('网络不太通畅，请稍后再试')
 //      }
 //    })
-      
+
 //    Ajax({
 //			method: 'post',
 //			url: '/wx_yxyx_common/top_invite_list"+userId',
@@ -305,7 +307,7 @@ export default {
 //		.then(res => {
 //			console.log(res);
 //		});
-      
+
 //      this.$http.post("http://wx-yxyx.leo1v1.com/wx_yxyx_common/top_invite_list"+userId)
 //        .then((result) => {
 //          console.log(result)
@@ -452,7 +454,7 @@ export default {
   }
 //  ,
 //  beforeDestroy: function () {
-//		
+//
 //	}
 }
 </script>
